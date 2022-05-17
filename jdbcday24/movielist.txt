@@ -1,0 +1,22 @@
+moviecode,moviename,hero,heroine,director,releaseddate,panImovie,boxoffrating
+p467,Pushpa:The Rise,AlluArjun,Rashmika Mandanna,Sukumar,17-December-2021,Yes,5
+b987,Bheemla Nayak,Pawan Kalyan,Nithya Menen,Saagar K Chandra,25-Feb-2022,No,5
+r563,RRR,NTR&Ram Charan,Alia Bhatt&Olivia,S.S.Rajamouli,25-March-2022,Yes,5
+a235,A AA,Nithin,Samantha,Trivikram Srinivas,2-June-2016,No,4.5
+u764,Uppena,Panja Vaisshnav Tej,Kriti Shetty,Buchi Babu Sana,12-February-2021,no,4.7
+l853,Love Story,Chaitanya Akkineni,Sai Pallavi,Sekhar Kammula,24-September-2021,No,3.5
+v479,Varudu Kaavalenu,Naga Shaurya, Ritu Varma,Lakshmi Sowjanya,29-October-2021,No,3
+m367,Most Eligible Bachelor,Akhil Akkineni,Pooja Hegde,Bommarillu Bhaskar,15-October-2021,No,3
+m325,Master,Thalapathy Vijay,Malavika Mohanan,Lokesh Kanagaraj,13-January-2021,No,4.4
+a244,Annaatthe,Rajinikanth,Khushbu,Siva,4-November-2021,No,3.7
+s645,Shyam Singha Roy,Nani,Sai Pallavi,Rahul Sankrityan,24-December-2021,No,3.9
+s823,Sarileru Neekevvaru,Mahesh Babu,Rashmika Mandanna,Anil Ravipudi,10-January-2020,No,5
+a247,Akhanda,Nandamuri Balakrishna,Pragya Jaiswal,Boyapati Srinu,2-December-2021,No,4
+r995,Republic,Sai Dharam Tej,AishwaryaRajesh,Deva Katta,1-October-2021,No,3.5
+j257,Jathi Ratnalu,Naveen Polishetty,Faria Abdullah,Anudeep KV,11-March-2021,No,5
+t823,Tuck Jagadish,Nani,Ritu Varma,Shiva Nirvana,10-September-2021,No,3.9
+s636,Skylab,Satyadev Kancharana,Nithya Menen,Vishvak Khanderao,4-December-2021,No,4
+p345,Paagal,Vishwak Sen,Nivetha Pethuraj,Naresh Kuppili,14-August-2021,No,4.5
+b764,Bahubali:The Beginning,Prabhas,Tamannaah,S.S.Rajamouli,10-July-2015,No,4
+t359,Thimmarusu,Satyadev Kancharana,Priyanka Jawalkar,Sharan Koppisetty,30-July-2021,No,4
+i341,iSmart Shankar,Ram,Nidhhi Agerwal,Puri Jagannadh,18-July-2019,No,4
